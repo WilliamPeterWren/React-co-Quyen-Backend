@@ -1,0 +1,6 @@
+{
+    "method": "PUT",
+    "path": "/api/products/update-views/:id",
+    "handler": "product.updateViews"
+}
+  
